@@ -1,0 +1,1117 @@
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server npm i
+cd ..
+docker compose exec server npm i
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node tests/changeStreams/change.js
+docker compose exec server node services/changeListeners.js
+docker compose exec server node services/changeListeners.js
+docker compose exec server ls
+cd server
+docker compose exec server node services/changeListeners.js
+docker compose exec server node services/changeListeners.js
+docker compose up 
+docker compose up 
+docker compose up 
+docker compose up 
+docker compose up 
+docker compose up 
+docker compose up 
+docker compose up 
+cd server
+docker compose up
+docker compose up
+dc down
+docker compose down
+docker compose up --build
+docker compose up 
+docker compose up 
+ssh ssh root@vps-2060fb58.vps.ovh.net  -p 22\
+
+ssh root@vps-2060fb58.vps.ovh.net  -p 22\
+
+ssh root@vps-2060fb58.vps.ovh.net  -p 22\
+
+ssh ubuntu@vps-2060fb58.vps.ovh.net  -p 22\
+
+root ssh ubuntu@vps-2060fb58.vps.ovh.net  -p 22\
+
+sudo  ssh ubuntu@vps-2060fb58.vps.ovh.net  -p 22\
+
+sudo  ssh ubuntu@vps-2060fb58.vps.ovh.net  -p 22\
+
+sudo  ssh debian@vps-2060fb58.vps.ovh.net -p 22\
+
+sudo  ssh debian@vps-2060fb58.vps.ovh.net -p 22\
+
+sudo  ssh debian@vps-2060fb58.vps.ovh.net\
+
+ssh debian@vps-2060fb58.vps.ovh.net\
+
+ssh debian@vps-2060fb58.vps.ovh.net\
+
+ssh debian@vps-2060fb58.vps.ovh.net\
+
+docker compose up
+cd server
+docker compose up
+npm i
+git branch
+docker compose up
+npm test
+npm test
+npm test
+npm test
+cd serveer$
+cd serve
+cd server
+npm test
+npm test
+npm test
+git branch
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+clear
+npm test
+npm test
+npm test
+npm test
+clear
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+git branch
+git add .
+git commit -m "Fix Unit Tests Friends"
+git status
+cd ..
+git add .
+git commit -m "Fix Unit Tests Friends"
+git push
+git push --set-upstream origin feature/test_friends
+npm test
+cd server
+npm test
+npm test
+npm test
+npm test
+npm test
+git branch
+docker compose up -d
+npm i
+docker compose up -d
+cd ..cl
+cd ../client
+pnpm run dev
+pnpm i
+pnpm i
+pnpm run dev
+pnpm run dev
+git branch
+git pull
+git add .
+git commit -m "test"
+git pull
+git pull
+cd server
+npm i
+docker compose up -d
+cd ../client
+pnpm run dev
+pnpm run dev
+pnpm run dev
+pnpm run dev
+git checkout dev
+git add .
+git commi -m "test
+pnpm run dev
+ls
+git clone https://github.com/benjaminli7/Projet_Stack_S2.git
+cd Projet_Stack_S2
+git branch
+git branch feature/test_friends
+git checkout feature/test_friend
+git checkout feature/test_friends
+code .
+npm init
+npm init
+npm i dotenv
+npm install openai@^4.0.0\
+
+npm install openai@^4.0.0
+npm install openai@^4.0.0
+npm
+npm install openai@^4.0.0
+npm install openai
+npm i axios
+node OpenAI.js
+node OpenAI.js
+pnpm dev
+pnpm i
+pnpm dev
+pnpm run dev
+clear
+pnpm dev
+pnpm
+pnpm dev
+pnpm i
+npm run dev
+ls
+next dev
+next
+npm install next@latest react@latest react-dom@latest\
+
+pnpm dev
+next
+git clone https://github.com/syalicheff/cv-maker.git .
+code .
+pnpm dev
+git pull
+git stash
+git pull
+git checkout .
+git pull
+git pull
+pnpm i
+pnpm dev
+npm i next
+pnpm i next
+pnpm dev
+pnpm i next
+pnpm dev
+next
+npm i -g nex
+npm i -g next
+pnpm dev
+pnpm run dev
+pnpm i 
+pnpm dev
+yarn dev
+node --v
+node -v
+npm run dev
+npm i -g npx
+npm install -g npx
+npx
+pnpm dev
+npm dev
+npm run dev
+npm i next@latest react@latest react-dom@latest
+pnpm de
+pnpm dev
+npm run dev
+pnpm i
+npm run dev
+pnpm store prune
+pnpm i
+pnpm dev
+pnpm i
+pnpm dev
+cd ..
+rmdir -f ia-5iw
+rm -rf ia-5iw
+git branch
+git add .
+git commit -m "test"
+git push
+git add .
+git commit -m "testv2"
+git push
+git commit -m "testv3"
+git add 
+git add .
+git commit -m "testv3"
+git push
+git add .
+git commit -m "testv4"
+git push
+git add .
+git commit -m "testPNPM"
+git push
+git add .
+git commit -m "Cache"
+git push
+git add .
+git commit -m "Cache v2"
+git push
+git commit -m "Cache v3"
+git add .
+git commit -m "Cache v3"
+git push
+git add .
+git commit -m "Cache v5"
+git push
+git commit -m "Cache v6"
+git add .
+git commit -m "Cache v6"
+git push
+git add .
+git commit -m "Vercel Deploy"
+git push
+git add .
+git commit -m "Vercel Deploy v2"
+git push
+git add .
+git commit -m "Vercel Deploy v3"
+git push
+git add .
+git commit -m "Vercel Deploy v4"
+git push
+git add .
+git commit -m "Vercel Deploy v5"
+git push
+npx create-next-app@latest\
+
+ls
+cd my-app
+pnpm dev
+git clone https://github.com/benjaminli7/ia-5iw.git
+git clone https://github.com/benjaminli7/ia-5iw.git
+cd ia-5iw
+pnpm i
+pnpm dev
+npm update\
+
+npm install encoding --save\
+
+npm cache clean --force\
+npm install\
+
+pnpm dev
+cd ..
+git clone https://github.com/syalicheff/ia-api-5iw.git
+cd ia-api-5iw
+npx create-next-app@latest\
+
+cd ..
+npx create-next-app@latest\
+
+npx create-next-app@latest .\
+
+ls
+cd ia-api-5iw
+npx create-next-app@latest .\
+
+npx create-next-app@latest .\
+
+npx shadcn-ui@latest init\
+
+pnpm i openai
+pnpm dev
+pnpm remove shadcn-ui@latest
+pnpm remove shadcn-ui
+pnpm remove openai
+pnpm dev
+pnpm i openai
+pnpm dev
+npx shadcn-ui@latest init
+pnpm dev
+git clone https://github.com/benjaminli7/ia-5iw.git
+cd ia-5iw
+pnpm i
+pnpm dev
+pnpm dev
+ls
+pnpm install
+pnpm build
+pnpm run preview &
+docker run -i --init --cap-add=SYS_ADMIN --network host -v ./gen:/home/pptruser/gen ghcr.io/puppeteer/puppeteer:latest node -e "$(cat snapshot.js)" http://127.0.0.1:4173 ./gen
+git add .
+git commit -m "Snapshot v1"
+git push
+git add .
+git commit -m "Snapshot v2"
+git push
+git add .
+git commit -m "Snapshot v3"
+git push
+git add .
+git commit -m "Snapshot v4"
+git push
+git add .
+git commit -m "Snapshot v5"
+git push
+git add .
+git commit -m "Snapshot v6"
+git add .
+git commit -m "Snapshot v7"
+git push
+git add .
+git commit -m "Snapshot v8"
+git push
+git add .
+git commit -m "Snapshot v9"
+git push
+ls
+npm create vite react
+npm create vite react-cour
+cd react-cour
+npm i
+node -v
+npm update
+apt get install node
+npm run dev
+npx autarky
+npx autarky
+git branc dev
+git branch dev
+git branch staging
+git branch feat/feature-1
+git add .
+git commit -m "Branches"
+git checkout dev
+git push
+ git push --set-upstream origin dev
+git checkout staging
+ git push --set-upstream origin staging
+git checkout feat/feature-1
+ git push --set-upstream origin feat/feature-1
+git checkout main
+npm rund ev
+npm run dev
+kubectl apply -f pv.yaml
+cd tp
+minikube delete --all
+minikube service --all\
+âƒ·ƒ¯ Mise en pause : $ minikube pause
+minikube start
+kubectl apply -f votin-app.yaml
+kubectl apply -f voting-app.yaml
+kubectl apply -f voting-app.yaml
+minikube service --all\
+âƒ·ƒ¯ Mise en pause : $ minikube pause
+kubectl get pods
+minikube service --all\
+âƒ·ƒ¯ Mise en pause : $ minikube pause
+minikube service vote
+kubectl apply -f redis.yaml
+kubectl apply -f redis.yaml
+kubectl apply -f redis.yaml
+kubectl apply -f redis.yaml
+kubectl apply -f redis.yaml
+kubectl apply -f redis.yaml
+kubectl apply -f redis.yaml
+kubectl apply -f redis.yaml
+kubectl apply -f redis.yaml
+minikube service --all\
+âƒ·ƒ¯ Mise en pause : $ minikube pause
+kubectl apply -f worker.yaml
+minikube service --all\
+âƒ·ƒ¯ Mise en pause : $ minikube pause
+minikube service --all\
+âƒ·ƒ¯ Mise en pause : $ minikube pause
+minikube service --all
+minikube service vote
+minikube service vote
+kubectl apply -f redis.yaml
+kubectl apply -f voting-app.yaml
+minikube service --all
+kubectl apply -f worker.yaml
+minikube service --all
+kubectl apply -f redis.yaml
+kubectl apply -f postgres.yaml
+kubectl apply -f postgres.yaml
+kubectl apply -f postgres.yaml
+minikube service --all
+kubectl apply -f result-app.yaml
+minikube service --all
+minikube service --all
+kubectl apply -f postgres.yaml
+kubectl apply -f postgres.yaml
+kubectl apply -f postgres.yaml
+kubectl apply -f postgres.yaml
+kubectl apply -f postgres.yaml
+kubectl apply -f postgres.yaml
+kubectl apply -f postgres.yaml
+kubectl get pods -A
+kubectl create namespace vote\
+
+kubectl get pods -A
+kubectl apply -f pod.yaml
+kubectl get pod 
+kubectl apply -f service.yaml
+kubectl get svc
+kubectl config view
+minikube service --all
+kubectl delete -f pod.yaml
+kubectl apply -f nginx-deployment.yaml
+minikube service --all
+kebectl get replicaset
+kubectl get replicaset
+kubectl get pods
+watch -n kubectl get pods
+kubectl get pods
+watch -n kubectl get pods
+loop kubectl get pods
+brew install watch
+kubectl apply -f redis.yml
+kubectl apply -f redis.yaml
+kubectl exec redist -it -- bash
+kubectl exec redis -it -- bash
+watch -n kubectl get pods
+watch -n 1  kubectl get pods
+kubectl apply -f redis.yaml
+watch -n 1 kubectl get pods
+watch -n 1 kubectl get pods
+watch -n 1 kubectl get pods
+pnpm dev
+git add .
+git commit -m "First commit"
+git push
+pnpm dev
+git add .
+git commit -m "Pull changes"
+git pull
+ git config pull.rebase false
+git pull
+pnpm dev
+pnpm dev
+git add .
+git commit -m "Prompt List"
+git pull
+git add .
+git commit -m "Prompt List"
+git push
+pnpm de
+pnpm dev
+git add .
+git commit -m "test"
+git pull
+pnpm dev
+mkdir persistent_data
+ls
+cd persistent_data
+echo "hello world" > persistent_data/data_fil
+ls
+touch data_fil
+echo "hello world" > persistent_data/data_fil
+ls
+echo "hello world" > data_fil
+ls
+rm data_fil
+echo "hello world" > data_fil
+ls
+docker run --rm -ti -v $(pwd)/persistent_data:/persistent ubuntu:22.04
+docker run --rm -ti -v $(pwd)/persistent_data:/persistent ubuntu:22.04
+docker network ls
+ls
+   curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/darwin/arm64/kubectl"\
+
+   curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/darwin/arm64/kubectl.sha256"\
+
+echo "$(cat kubectl.sha256)  kubectl" | shasum -a 256 --check\
+
+ls
+cd ..
+   curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/darwin/arm64/kubectl"\
+
+   curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/darwin/arm64/kubectl.sha256"
+echo "$(cat kubectl.sha256)  kubectl" | shasum -a 256 --check\
+
+ls
+chmod +x ./kubectl\
+
+sudo mv ./kubectl /usr/local/bin/kubectl\
+sudo chown root: /usr/local/bin/kubectl
+kubectl version --client\
+
+rm kubectl kubectl.sha256\
+
+ls
+brew install minikube\
+
+curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-darwin-amd64\
+
+sudo install minikube-darwin-amd64 /usr/local/bin/minikube\
+
+minikube start\
+
+curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-darwin-arm64\
+
+sudo install minikube-darwin-arm64 /usr/local/bin/minikube\
+
+minikube start\
+
+kubectl config view\
+Autres commandes :\
+âƒ·ƒ¯ Liste des commandes minikube : $ minikube --help\
+âƒ·ƒ¯ Nettoyer complÃ¨tement minikube : $ minikube delete --all\
+âƒ·ƒ¯ Voir les services exposÃ©s sur le cluster : $ minikube service --all\
+âƒ·ƒ¯ Mise en pause : $ minikube pause
+kubectl config view
+minikube --f
+minikube --help
+kubectl config view
+kubectl get pods
+kubectl get 
+kubectl get namespace
+kubectl get pods -A
+minikube service --all
+kubectl run nginx --image=nginx --restart=Never
+kubectl get pods -A
+kubectl get pods -o wide
+minikube ssh
+kubectlkubectl delete pod nginx
+kubectl delete pod nginx
+ls
+kubectl apply -f pod.yaml
+v
+kubectl get pods
+ls
+cd ..
+ls
+cd CI:CD
+ls
+git clone https://github.com/syalicheff/ga-exercice.git
+ls
+cd ga-exercice
+ls
+cd ..
+cd ..
+ls
+cd Docker-Kubernetes
+kubectl get pods
+minikube start\
+
+nix @nestjs/cli new chat-api
+nlx @nestjs/cli new chat-api
+cd chat-api
+ls
+nr start dev
+ni @nestjs/websockets @nestjs/platform-socket.io socket.io\
+
+nr start dev
+nr start dev
+cd ..
+ls
+cd chat-api
+nr nest g module message
+nr nest g gateway message
+cd ..
+nix create-next-app@latest
+npx create-next-app@latest\
+
+cd chat-
+cd chat-front
+pnpm i
+pnpm run dev
+npm i -g @antfu/ni
+nix @nestjs/cli new chat-api
+nr dev
+ls
+nr start
+nr start
+nr start:dev
+make install\
+
+make install\
+
+sudo kill -kill $(sudo lsof -t -i :5432)\
+
+make install\
+
+make install\
+
+clear
+make sh
+make data
+clear
+make sh
+pnpm i socket.io-client
+pnpm i socket.io-client'
+pnpm i socket.io-client
+pnpm i -D  daisyui@latest\
+
+pnpm run dev
+pnpm run dev
+pnpm run dev
+git clone https://github.com/Lokymil/clean-code-workshop-readability.git .
+git branch
+node fizzbuzz.js
+node fizzbuzz.js
+node fizzbuzz.js
+node fizzbuzz.js
+node fizzbuzz.js
+git checkout solution
+git stash
+git checkout solutuib
+git checkout solution
+node fizzbuzz.js
+git clone https://github.com/MohammadBnei/realtime-iw3.git
+ls
+rmdir Challenge_S1
+ls
+cd ..
+rmdir Challenge_S1
+git clone https://github.com/benjaminli7/challenge-5iw.git
+cd challenge-5iw
+git clone https://github.com/syalicheff/ApiPlatform.git
+npm run dev
+kubectl tunnel
+minikube tunnel
+minkube start
+minikube start
+minikube start --force
+minikube addons enable ingress
+kubectl get pods
+kubectl get pods -n ingress-nginx
+kubectl create deployment web --image=gcr.io/google-samples/hello-app:1.0
+clear
+kubectl expose deployment web --type=NodePort --port=8080
+kubectl get services web
+kminikube service web --url
+minikube service web --url
+ls
+cd Documents
+ls
+cd 5IW
+ls
+cd Docker-Kubernetes
+ls
+touch ingress.yml
+kubectl apply -f ingress.yml
+kubectl apply -f ingress.yaml
+minikube ip
+curl --resolve "hello-world.info:80:127.0.0.1" -i http://hello-world.info/v1
+curl --resolve "hello-world.info:80:127.0.0.1" -i http://hello-world.info/v1
+minikube dashboard
+brew install helm\
+
+curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+chmod 700 get_helm.sh
+./get_helm.sh
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+helm repo update
+kubectl create namespace monitoring
+helm install prometheus prometheus-community/prometheus -n monitoring --values\
+values.yaml\
+server:\
+global:\
+scrape_interval: 15s\
+service:
+helm install prometheus prometheus-community/prometheus -n monitoring --values\
+values.yaml
+helm install prometheus prometheus-community/prometheus -n monitoring --values values.yaml
+helm install prometheus prometheus-community/prometheus -n monitoring --values values.yaml
+kubectl get pods -n Ã¹onitoring
+kubectl get pods -n monitoring
+minikube service --all -n monitoring
+minikube service --all -n monitoring
+helm install prometheus prometheus-community/prometheus -n monitoring --values values.yaml
+kubectl get pods -n monitoring
+cd frontend
+npm i
+npm start
+npm start
+cd ..
+git branch feature/auth
+git checkout feature/auth
+cd backend
+make run
+make run make;auth
+make shell
+cd backend
+make install
+cd ..
+git pull
+cd clien
+ls
+cd frontend
+npm i
+npm start
+npm i @/components/icons
+npx shadcn-ui@latest add checkbox\
+
+npx shadcn-ui@latest add input\
+
+npx shadcn-ui@latest add label\
+
+npx shadcn-ui@latest add icons\
+
+npx shadcn-ui@latest add icon\
+
+npx shadcn-ui@latest add button\
+
+npx shadcn-ui@latest add card\
+
+npm dev
+npm run
+npm start
+cd ..
+git add .
+git commit -m "Login shadcn"
+git push
+git push --set-upstream origin feature/auth
+ cd frontend
+npm dev
+npm start
+npm start
+npm i
+npm run dev
+npm init
+npm i jest
+npm run test
+npm run test --watchAll
+npm run test --watchAll
+npm run test --watchAll
+npm run test --watchAll
+node index.
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+npm run test --watchAll
+npm run test --watchAll
+npm run test --watchAll
+npm run test --watchAll
+npm run test --watchAll
+git status
+git pull
+cd server
+npx create-next-app
+cd ../client
+npm run dev
+pnpm i socket.io-client
+npm run dev
+$ npm i --save @nestjs/websockets @nestjs/platform-socket.io\
+
+npm init
+$ npm i --save @nestjs/websockets @nestjs/platform-socket.io\
+
+npm i --save @nestjs/websockets @nestjs/platform-socket.io\
+
+cd server
+npm i --save @nestjs/websockets @nestjs/platform-socket.io\
+
+npm init
+npm i --save @nestjs/websockets @nestjs/platform-socket.io\
+
+nest new .
+nest new .
+npm i --save @nestjs/websockets @nestjs/platform-socket.io\
+
+pnpm i --save @nestjs/websockets @nestjs/platform-socket.io\
+
+pnpm run:dev
+pnpm start:dev
+pnpm start:dev
+pnpm start:dev
+pnpm i socket.io
+pnpm start:dev
+pnpm start:dev
+pnpm start:dev
+pnpm i
+pnpm start:dev
+pnpm start:dev
+ls
+cd ..
+ls
+git pull
+git add .
+git commit -m "test"
+git pull
+git config pull.rebase false
+git pull
+git add .
+git commit -m "test\
+"
+git pull
+pnpm start:dev
+ls
+cd chat-api
+pnpm start:dev
+pnpm start:dev
+pnpm i
+pnpm run dev
+pnpm run dev
+pnpm run dev
+pnpm run dev
+pnpm run dev
+git clone https://github.com/MohammadBnei/emoji-story-iw3.git
+cd emoji-story-iw3
+code .
+minikube start
+kubectl apply -f https://k8s.io/examples/application/php-apache.yaml
+kubectl apply -f https://k8s.io/examples/application/php-apache.yaml
+kubectl apply -f https://k8s.io/examples/application/php-apache.yaml
+git clone https://github.com/benjaminli7/devops-5iw.git
+cd client
+cd front
+pnpm i
+pnpm start
+npm run dev
+npm i ../interface
+npm install ../interface
+pnpm install ../interface
+pnpm run dev
+pnpm run dev
+pnpm i storybook@latest init\
+
+cd ..
+git add .
+git commit -m "testing"
+git pull
+cd front
+pnpm run dev
+npm i
+pnpm i
+pnpm run dev
+cd ..
+git commit -m "testi"
+git add .
+git commit -m "testi"
+git pull
+ls
+cd front
+pnpm i
+pnpm run dev
+cd server
+npm i
+npm start:dev
+npm run start:dev
+npm i ../interface
+npm run start:dev
+npm run start:dev
+npm run start:dev
+cd ..
+git pull
+git add .
+git pull
+git commit -m "test"
+git pull
+git pull
+git commit -m "test"
+git pull
+cd server
+npm run start:dev
+npm i
+npm run start:dev
+npm run start:dev
+cd interface
+npm init
+clear
+cd ..
+git commit -m "test"
+git add ?
+git add .
+git commit -m "test"
+git pull
+git config pull.rebase false
+git pull
+git add .
+git commit -m "test"
+git pull
+git pull
+git merge main 
+git pull
+git checkout main
+git add .
+git commit -m "Test"
+git checkout main
+cd s
+cd backend
+make install
+make stop
+make start
+make migrate
+cd ..
+git pull
+cd ser
+ls
+cd backend
+make migrate
+git checkout .
+cd frontend
+npm start
+npm i
+npm start
+git branch
+git branch dev
+git checkout dev
+cd ga
+docker run -p 8080:8080 -p 50000:50000 --restart=on-failure jenkins/jenkins:lts-jdk17\
+
+brew install ngrok/ngrok/ngrok\
+\
+
+ngrok http 8080
+git clone git@github.com:DataScientist-fr/Terraform-Course.gi
+git clone git@github.com:DataScientist-fr/Terraform-Course.git
+brew update && brew install azure-cli\
+
+brew tap --repair
+brew update && brew install azure-cli\
+
+az login
+git pull
+ls
+cd flask-app
+docker push acresgisebbenjamin.azurecr.io/flask-app:v1\
+
+git add .
+cd ..
+git add .
+git commit -m "push"
+git push
+git status
+git push
+git status
+git add .
+git commit -m "test"
+git push
+git reset --soft HEAD~1
+git status
+git reset --soft HEAD~1
+git status
+git status
+git status
