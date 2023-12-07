@@ -43,9 +43,6 @@ terraform apply
 
 ```
 
-Une fois la commande terminée, notez bien la valeur de "public_ip_address"
-
-
 ## Construction et Push de l'Image Docker
 
 ### Connexion à Azure Container Registry
